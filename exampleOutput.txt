@@ -1,0 +1,27 @@
+B1:Tiep nhan ho so
+    -Lenh Chuyen Tien
+    -Chung tu chung minh muc dich cuyen tien
+    -Van ban giai trinh/cam ket(neu co)
+B2:Kiem tra ho so
+    -Phong chong rua tien
+    -lenh chuyen tien 
+    -chung tu chung minh muc dich chuyen tien 
+        - Xuat nhap khau hang hoa
+        - linh vuc van tai
+        -Giao dich von
+    -kiem tra ho so TT hang hoa
+        - T/T tra truoc
+            -Dieu kien tra truoc
+            -tinh trang qua han + so du tra truoc 
+            -thoi han bo sung chung tu
+        - T/T tra sau 
+            - nhap bang ke TKHQ
+            - tra cuu trang nsnn
+B3:Tring CTQ phe duyet 
+B4:Lap phieu tiep nhan
+B5:Hach Toan va chi phi 
+B6:Dat nguon thanh toan 
+B7:Chuyen ho so ve TT.TTQT
+B8:Theo Doi Tien do & Bo sung ho so tren Omni-iBPS
+B9: Luu ho so & chung tu ke toan
+B10: Theo doi & Bo sung ho so tra truoc 

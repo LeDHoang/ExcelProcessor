@@ -1,0 +1,1155 @@
+{
+  "text_content": [],
+  "images": [
+    {
+      "sheet_name": "SƠ ĐỒ",
+      "image_filename": "images/S__img_1.png",
+      "original_part": "xl/media/image7.png",
+      "anchor": {
+        "col": 16,
+        "colOff": 610174,
+        "row": 72,
+        "rowOff": 158895
+      }
+    },
+    {
+      "sheet_name": "SƠ ĐỒ",
+      "image_filename": "images/S__img_2.png",
+      "original_part": "xl/media/image8.png",
+      "anchor": {
+        "col": 9,
+        "colOff": 201882,
+        "row": 44,
+        "rowOff": 77228
+      }
+    },
+    {
+      "sheet_name": "SƠ ĐỒ",
+      "image_filename": "images/S__img_3.png",
+      "original_part": "xl/media/image9.png",
+      "anchor": {
+        "col": 13,
+        "colOff": 276849,
+        "row": 56,
+        "rowOff": 43297
+      }
+    },
+    {
+      "sheet_name": "SƠ ĐỒ",
+      "image_filename": "images/S__img_4.png",
+      "original_part": "xl/media/image10.png",
+      "anchor": {
+        "col": 8,
+        "colOff": 186758,
+        "row": 95,
+        "rowOff": 104773
+      }
+    },
+    {
+      "sheet_name": "SƠ ĐỒ",
+      "image_filename": "images/S__img_5.png",
+      "original_part": "xl/media/image11.png",
+      "anchor": {
+        "col": 76,
+        "colOff": 152400,
+        "row": 51,
+        "rowOff": 153173
+      }
+    },
+    {
+      "sheet_name": "SƠ ĐỒ",
+      "image_filename": "images/S__img_6.png",
+      "original_part": "xl/media/image12.png",
+      "anchor": {
+        "col": 69,
+        "colOff": 350519,
+        "row": 0,
+        "rowOff": 1
+      }
+    },
+    {
+      "sheet_name": "SƠ ĐỒ",
+      "image_filename": "images/S__img_7.png",
+      "original_part": "xl/media/image12.png",
+      "anchor": {
+        "col": 53,
+        "colOff": 493945,
+        "row": 95,
+        "rowOff": 151483
+      }
+    },
+    {
+      "sheet_name": "SƠ ĐỒ",
+      "image_filename": "images/S__img_8.png",
+      "original_part": "xl/media/image12.png",
+      "anchor": {
+        "col": 53,
+        "colOff": 519325,
+        "row": 67,
+        "rowOff": 175260
+      }
+    },
+    {
+      "sheet_name": "SƠ ĐỒ",
+      "image_filename": "images/S__img_9.png",
+      "original_part": "xl/media/image16.png",
+      "anchor": {
+        "col": 24,
+        "colOff": 552450,
+        "row": 77,
+        "rowOff": 98716
+      }
+    },
+    {
+      "sheet_name": "SƠ ĐỒ",
+      "image_filename": "images/S__img_10.png",
+      "original_part": "xl/media/image17.png",
+      "anchor": {
+        "col": 0,
+        "colOff": 0,
+        "row": 92,
+        "rowOff": 95250
+      }
+    },
+    {
+      "sheet_name": "SƠ ĐỒ",
+      "image_filename": "images/S__img_11.png",
+      "original_part": "xl/media/image17.png",
+      "anchor": {
+        "col": 0,
+        "colOff": 418683,
+        "row": 103,
+        "rowOff": 19014
+      }
+    },
+    {
+      "sheet_name": "SƠ ĐỒ",
+      "image_filename": "images/S__img_12.png",
+      "original_part": "xl/media/image18.png",
+      "anchor": {
+        "col": 50,
+        "colOff": 274320,
+        "row": 128,
+        "rowOff": 30480
+      }
+    },
+    {
+      "sheet_name": "SƠ ĐỒ",
+      "image_filename": "images/S__img_13.png",
+      "original_part": "xl/media/image19.png",
+      "anchor": {
+        "col": 88,
+        "colOff": 23725,
+        "row": 93,
+        "rowOff": 95252
+      }
+    }
+  ],
+  "smartart": [],
+  "links": [],
+  "metadata": {
+    "filename": "Sheet1.xlsx",
+    "created": "2025-10-21T11:23:46.336487",
+    "sheets": [
+      "SƠ ĐỒ"
+    ]
+  },
+  "sheets": [
+    {
+      "name": "SƠ ĐỒ",
+      "text_content": [],
+      "images": [
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "image_filename": "images/S__img_1.png",
+          "original_part": "xl/media/image7.png",
+          "anchor": {
+            "col": 16,
+            "colOff": 610174,
+            "row": 72,
+            "rowOff": 158895
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "image_filename": "images/S__img_2.png",
+          "original_part": "xl/media/image8.png",
+          "anchor": {
+            "col": 9,
+            "colOff": 201882,
+            "row": 44,
+            "rowOff": 77228
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "image_filename": "images/S__img_3.png",
+          "original_part": "xl/media/image9.png",
+          "anchor": {
+            "col": 13,
+            "colOff": 276849,
+            "row": 56,
+            "rowOff": 43297
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "image_filename": "images/S__img_4.png",
+          "original_part": "xl/media/image10.png",
+          "anchor": {
+            "col": 8,
+            "colOff": 186758,
+            "row": 95,
+            "rowOff": 104773
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "image_filename": "images/S__img_5.png",
+          "original_part": "xl/media/image11.png",
+          "anchor": {
+            "col": 76,
+            "colOff": 152400,
+            "row": 51,
+            "rowOff": 153173
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "image_filename": "images/S__img_6.png",
+          "original_part": "xl/media/image12.png",
+          "anchor": {
+            "col": 69,
+            "colOff": 350519,
+            "row": 0,
+            "rowOff": 1
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "image_filename": "images/S__img_7.png",
+          "original_part": "xl/media/image12.png",
+          "anchor": {
+            "col": 53,
+            "colOff": 493945,
+            "row": 95,
+            "rowOff": 151483
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "image_filename": "images/S__img_8.png",
+          "original_part": "xl/media/image12.png",
+          "anchor": {
+            "col": 53,
+            "colOff": 519325,
+            "row": 67,
+            "rowOff": 175260
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "image_filename": "images/S__img_9.png",
+          "original_part": "xl/media/image16.png",
+          "anchor": {
+            "col": 24,
+            "colOff": 552450,
+            "row": 77,
+            "rowOff": 98716
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "image_filename": "images/S__img_10.png",
+          "original_part": "xl/media/image17.png",
+          "anchor": {
+            "col": 0,
+            "colOff": 0,
+            "row": 92,
+            "rowOff": 95250
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "image_filename": "images/S__img_11.png",
+          "original_part": "xl/media/image17.png",
+          "anchor": {
+            "col": 0,
+            "colOff": 418683,
+            "row": 103,
+            "rowOff": 19014
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "image_filename": "images/S__img_12.png",
+          "original_part": "xl/media/image18.png",
+          "anchor": {
+            "col": 50,
+            "colOff": 274320,
+            "row": 128,
+            "rowOff": 30480
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "image_filename": "images/S__img_13.png",
+          "original_part": "xl/media/image19.png",
+          "anchor": {
+            "col": 88,
+            "colOff": 23725,
+            "row": 93,
+            "rowOff": 95252
+          }
+        }
+      ],
+      "shapes_text": [
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "Phòng chống rửa tiền",
+          "anchor": {
+            "col": 14,
+            "colOff": 323645,
+            "row": 5,
+            "rowOff": 152246
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "Lệnh  chuyển  tiền",
+          "anchor": {
+            "col": 14,
+            "colOff": 304751,
+            "row": 9,
+            "rowOff": 95250
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "Chứng  từ  chứng minh mục  đích  chuyển  tiền",
+          "anchor": {
+            "col": 14,
+            "colOff": 320377,
+            "row": 14,
+            "rowOff": 2030
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "Kiểm tra hồ sơ TT hàng hóa",
+          "anchor": {
+            "col": 14,
+            "colOff": 307232,
+            "row": 20,
+            "rowOff": 8151
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "Sử dụng Omni scan",
+          "anchor": {
+            "col": 16,
+            "colOff": 84367,
+            "row": 79,
+            "rowOff": 162208
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "Hạch toán & Tính phí",
+          "anchor": {
+            "col": 9,
+            "colOff": 392677,
+            "row": 44,
+            "rowOff": 128719
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "B5",
+          "anchor": {
+            "col": 10,
+            "colOff": 131316,
+            "row": 41,
+            "rowOff": 39858
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "Theo dõi tiến độ & bổ sung hồ sơ trên Omni-iBPS",
+          "anchor": {
+            "col": 7,
+            "colOff": 570943,
+            "row": 103,
+            "rowOff": 95251
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "B8",
+          "anchor": {
+            "col": 11,
+            "colOff": 186077,
+            "row": 101,
+            "rowOff": 3
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "TIỀN HÀNG NK VÀO VN",
+          "anchor": {
+            "col": 69,
+            "colOff": 350688,
+            "row": 12,
+            "rowOff": 3560
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "TẠM NHẬP TÁI XUẤT",
+          "anchor": {
+            "col": 69,
+            "colOff": 352248,
+            "row": 21,
+            "rowOff": 2883
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "CHUYỂN KHẨU",
+          "anchor": {
+            "col": 69,
+            "colOff": 378047,
+            "row": 27,
+            "rowOff": 143235
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "LÃI PHẠT / LÃI TRẢ CHẬM THANH TOÁN",
+          "anchor": {
+            "col": 76,
+            "colOff": 15031,
+            "row": 7,
+            "rowOff": 77392
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "BỒI THƯỜNG XUẤT KHẨU HH/DV",
+          "anchor": {
+            "col": 76,
+            "colOff": 11640,
+            "row": 14,
+            "rowOff": 64405
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "HOÀN TRẢ TIỀN ỨNG TRƯỚC",
+          "anchor": {
+            "col": 75,
+            "colOff": 618642,
+            "row": 21,
+            "rowOff": 27593
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "HOA HỒNG MÔI GIỚI",
+          "anchor": {
+            "col": 75,
+            "colOff": 618641,
+            "row": 27,
+            "rowOff": 145250
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "TIỀN PHẠT BỐC/DỠ HÀNG CHẬM",
+          "anchor": {
+            "col": 82,
+            "colOff": 231389,
+            "row": 1,
+            "rowOff": 8271
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "CƯỚC PHÍ GỬI HÀNG MẪU VỀ",
+          "anchor": {
+            "col": 82,
+            "colOff": 259219,
+            "row": 7,
+            "rowOff": 97404
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "CƯỚC PHÍ VẬN CHUYỂN HÀNG",
+          "anchor": {
+            "col": 82,
+            "colOff": 225477,
+            "row": 14,
+            "rowOff": 49182
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "PHÍ THUÊ NGOÀI LÀM THỦ TỤC XNK",
+          "anchor": {
+            "col": 82,
+            "colOff": 222219,
+            "row": 21,
+            "rowOff": 21538
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "PHÍ GIA CÔNG",
+          "anchor": {
+            "col": 82,
+            "colOff": 259222,
+            "row": 28,
+            "rowOff": 14582
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "PHÍ THÔNG TIN LIÊN LẠC CỦA TÀU CHO NHÀ CUNG CẤP DỊCH VỤ",
+          "anchor": {
+            "col": 53,
+            "colOff": 597322,
+            "row": 96,
+            "rowOff": 176483
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "TT  HOA HỒNG/ THU / CHI HỘ CƯỚC PHÍ VẬN CHUYỂN",
+          "anchor": {
+            "col": 53,
+            "colOff": 583151,
+            "row": 68,
+            "rowOff": 175825
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "MUA/VẬN CHUYỂN LINH KIỆN, VẬT TƯ, HẢI ĐỒ, XĂNG DẦU...",
+          "anchor": {
+            "col": 53,
+            "colOff": 597197,
+            "row": 75,
+            "rowOff": 182636
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "PHÍ ĐẠI LÝ LÀM THỦ TỤC CHO TÀU TẠI CẢNG NƯỚC NGOÀI",
+          "anchor": {
+            "col": 53,
+            "colOff": 596802,
+            "row": 82,
+            "rowOff": 146406
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "TT  CHO THUYỀN TRƯỞNG, THUYỀN VIÊN THÔNG QUA ĐẠI LÝ",
+          "anchor": {
+            "col": 53,
+            "colOff": 596800,
+            "row": 89,
+            "rowOff": 151580
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "PHÍ MÔI GIỚI VẬN CHUYỂN",
+          "anchor": {
+            "col": 63,
+            "colOff": 405497,
+            "row": 68,
+            "rowOff": 175661
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "PHÍ SỬA CHỮA CON TÀU",
+          "anchor": {
+            "col": 63,
+            "colOff": 396668,
+            "row": 75,
+            "rowOff": 166944
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "PHÍ CẤP CHỨNG CHỈ ĐI BIỂN CHO THUYỀN VIÊN",
+          "anchor": {
+            "col": 63,
+            "colOff": 368662,
+            "row": 82,
+            "rowOff": 141335
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "PHÍ CỜ TÀU",
+          "anchor": {
+            "col": 63,
+            "colOff": 367143,
+            "row": 89,
+            "rowOff": 132402
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "PHÍ QUA EO BIỂN",
+          "anchor": {
+            "col": 63,
+            "colOff": 369181,
+            "row": 96,
+            "rowOff": 164704
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "CHUYỂN TIỀN VÃNG LAI KHÁC",
+          "anchor": {
+            "col": 81,
+            "colOff": 198845,
+            "row": 87,
+            "rowOff": 123369
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "CHUYỂN THU NHẬP VỀ NƯỚC CHO NGƯỜI NƯỚC NGOÀI LÀM VIỆC TẠI VN",
+          "anchor": {
+            "col": 88,
+            "colOff": 410922,
+            "row": 133,
+            "rowOff": 176130
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "HOA HỒNG MÔI GIỚI XUẤT KHẨU LAO ĐỘNG",
+          "anchor": {
+            "col": 88,
+            "colOff": 410922,
+            "row": 58,
+            "rowOff": 73303
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "CHI PHÍ LIÊN QUAN HỢP TÁC DU HỌC",
+          "anchor": {
+            "col": 88,
+            "colOff": 410922,
+            "row": 63,
+            "rowOff": 73164
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "CHI PHÍ CỬ NGƯỜI CÔNG TÁC / HỌC TẬP / KHẢO SÁT / THAM DỰ HỘI THẢO / CUỘC HỌP QUỐC TẾ",
+          "anchor": {
+            "col": 88,
+            "colOff": 410922,
+            "row": 68,
+            "rowOff": 123686
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "CHI PHÍ THAM GIA HỘI CHỢ / TRIỄN LÃM DO ĐV NƯỚC NGOÀI TỔ CHỨC",
+          "anchor": {
+            "col": 88,
+            "colOff": 410922,
+            "row": 76,
+            "rowOff": 64366
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "TT PHÍ HỘI VIÊN CHO TỔ CHỨC QUỐC TẾ",
+          "anchor": {
+            "col": 88,
+            "colOff": 410902,
+            "row": 81,
+            "rowOff": 134779
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "CHUYỂN TIỀN PHỤC VỤ HOẠT ĐỘNG CỦA VP ĐẠI DIỆN Ở NƯỚC NGOÀI",
+          "anchor": {
+            "col": 88,
+            "colOff": 410922,
+            "row": 87,
+            "rowOff": 61165
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "PHÍ / HOA HỒNG DỊCH VỤ/ĐẠI LÝ DU LỊCH / BÁN VÉ MÁY BAY",
+          "anchor": {
+            "col": 88,
+            "colOff": 410922,
+            "row": 92,
+            "rowOff": 153433
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "TT HỢP ĐỒNG TÁI BẢO HIỂM",
+          "anchor": {
+            "col": 88,
+            "colOff": 410922,
+            "row": 98,
+            "rowOff": 131576
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "PHÍ CHUYỂN GIAO CÔNG NGHỆ",
+          "anchor": {
+            "col": 88,
+            "colOff": 410922,
+            "row": 103,
+            "rowOff": 81606
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "THANH TOÁN TIỀN BẢN QUYỀN (SỬ DỤNG PHẦN MỀM, PHÁT HÀNH SÁCH, PHÁT SÓNG PHIM ẢNH, …)",
+          "anchor": {
+            "col": 88,
+            "colOff": 410922,
+            "row": 107,
+            "rowOff": 169368
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "PHÍ CHUYỂN NHƯỢNG BẢN QUYỀN SỬ DỤNG HÌNH ẢNH / LOGO /  TRADEMARK",
+          "anchor": {
+            "col": 88,
+            "colOff": 410922,
+            "row": 118,
+            "rowOff": 1212
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "PHÍ NHƯỢNG QUYỀN THƯƠNG MẠI",
+          "anchor": {
+            "col": 88,
+            "colOff": 410922,
+            "row": 123,
+            "rowOff": 67069
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "PHÍ MỜI ĐỘI TUYỂN/DIỄN VIÊN/CA SĨ NƯỚC NGOÀI BIỂU DIỄN",
+          "anchor": {
+            "col": 88,
+            "colOff": 410922,
+            "row": 128,
+            "rowOff": 38233
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "PHÍ KHÁC",
+          "anchor": {
+            "col": 88,
+            "colOff": 396820,
+            "row": 162,
+            "rowOff": 126702
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "BIỂU PHÍ DOANH NGHIỆP",
+          "anchor": {
+            "col": 15,
+            "colOff": 186525,
+            "row": 47,
+            "rowOff": 52851
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "T/T trả trước",
+          "anchor": {
+            "col": 24,
+            "colOff": 536162,
+            "row": 26,
+            "rowOff": 190215
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "Điều kiện trả trước",
+          "anchor": {
+            "col": 19,
+            "colOff": 95250,
+            "row": 35,
+            "rowOff": 123825
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "Tình trạng quá hạn + số dư trả trước",
+          "anchor": {
+            "col": 24,
+            "colOff": 495516,
+            "row": 35,
+            "rowOff": 125501
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "Thời hạn bổ sung chứng từ",
+          "anchor": {
+            "col": 30,
+            "colOff": 590370,
+            "row": 35,
+            "rowOff": 125501
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "T/T trả sau",
+          "anchor": {
+            "col": 24,
+            "colOff": 455337,
+            "row": 44,
+            "rowOff": 133350
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "Nhập bảng kê TKHQ",
+          "anchor": {
+            "col": 21,
+            "colOff": 323727,
+            "row": 52,
+            "rowOff": 106224
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "Tra cứu trang NSNN",
+          "anchor": {
+            "col": 28,
+            "colOff": 96658,
+            "row": 52,
+            "rowOff": 106224
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "Sử dụng Omnidocs",
+          "anchor": {
+            "col": 25,
+            "colOff": 567224,
+            "row": 83,
+            "rowOff": 97895
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "Gia hạn bổ sung",
+          "anchor": {
+            "col": 34,
+            "colOff": 585352,
+            "row": 102,
+            "rowOff": 171450
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "Bổ sung không đúng cam kết (Hoàn trả / Không bổ sung / Cấn trừ ...)",
+          "anchor": {
+            "col": 31,
+            "colOff": 418232,
+            "row": 116,
+            "rowOff": 106938
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "Tra soát /       Tu chỉnh",
+          "anchor": {
+            "col": 25,
+            "colOff": 47625,
+            "row": 117,
+            "rowOff": 119061
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "Hướng dẫn kiểm tra tính hợp lý của chứng từ",
+          "anchor": {
+            "col": 29,
+            "colOff": 339090,
+            "row": 1,
+            "rowOff": 22860
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "Hướng dẫn sử dụng",
+          "anchor": {
+            "col": 0,
+            "colOff": 562480,
+            "row": 104,
+            "rowOff": 169537
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "Quy định thanh toán bên thứ 3",
+          "anchor": {
+            "col": 36,
+            "colOff": 523875,
+            "row": 0,
+            "rowOff": 123825
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "Quy định cập nhật tình trạng Hồ sơ TT trả trước",
+          "anchor": {
+            "col": 30,
+            "colOff": 396240,
+            "row": 91,
+            "rowOff": 19050
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "CHUYỂN TIỀN LIÊN QUAN  VAY, TRẢ NỢ",
+          "anchor": {
+            "col": 65,
+            "colOff": 563880,
+            "row": 128,
+            "rowOff": 11430
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "CHUYỂN TIỀN LIÊN QUAN HOẠT ĐỘNG ĐẦU TƯ",
+          "anchor": {
+            "col": 65,
+            "colOff": 428625,
+            "row": 146,
+            "rowOff": 123825
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "VAY, TRẢ NỢ NƯỚC NGOÀI",
+          "anchor": {
+            "col": 78,
+            "colOff": 609600,
+            "row": 130,
+            "rowOff": 12304
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "CHO NƯỚ C NGOÀI VAY",
+          "anchor": {
+            "col": 78,
+            "colOff": 582541,
+            "row": 115,
+            "rowOff": 0
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "ĐẦU TƯ NƯỚC NGOÀI VÀO VN",
+          "anchor": {
+            "col": 78,
+            "colOff": 518160,
+            "row": 148,
+            "rowOff": 103744
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "ĐẦU TƯ RA NƯỚC NGOÀI",
+          "anchor": {
+            "col": 78,
+            "colOff": 460621,
+            "row": 166,
+            "rowOff": 0
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "TÀI TRỢ, VIỆN TRỢ THEO CÁC CAM KẾT, THỎA THUẬN GIỮA NHÀ NƯỚC, CHÍNH PHỦ, CÁC CẤP CHÍNH  QUYỀN ĐỊA PHƯƠNG VỚI NƯỚC NGOÀI.",
+          "anchor": {
+            "col": 88,
+            "colOff": 415277,
+            "row": 139,
+            "rowOff": 42588
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "TÀI TRỢ, VIỆN TRỢ KHẮC PHỤC HẬU QUẢ THIÊN TAI, DỊCH BỆNH, CHIẾN TRANH.",
+          "anchor": {
+            "col": 88,
+            "colOff": 426163,
+            "row": 144,
+            "rowOff": 105924
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "TÀI TRỢ CHO CÁC CHƯƠNG TRÌNH, CÁC QUỸ, DỰ ÁN DO TỔ CHỨC TRONG NƯỚC VÀ/HOẶC TỔ CHỨC Ở NƯỚC NGOÀI THÀNH LẬP",
+          "anchor": {
+            "col": 88,
+            "colOff": 426163,
+            "row": 149,
+            "rowOff": 158374
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "MỤC LỤC",
+          "anchor": {
+            "col": 49,
+            "colOff": 225810,
+            "row": 5,
+            "rowOff": 170750
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "Luân chuyển chứng từ cho PGD chưa được cấp omni",
+          "anchor": {
+            "col": 16,
+            "colOff": 105406,
+            "row": 89,
+            "rowOff": 42768
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "TIỀN LIÊN QUAN ĐẾN KHAI THÁC TRÒ CHƠI ĐIỆN TỬ",
+          "anchor": {
+            "col": 88,
+            "colOff": 426755,
+            "row": 113,
+            "rowOff": 61501
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "Tình huống tư vấn nghiệp vụ TTQT",
+          "anchor": {
+            "col": 41,
+            "colOff": 198120,
+            "row": 2,
+            "rowOff": 26670
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "Xử lý sai biệt",
+          "anchor": {
+            "col": 23,
+            "colOff": 304800,
+            "row": 1,
+            "rowOff": 83820
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "ĐV  bán ngoại tệ sau khi hồ sơ đã được TT.NVNHGD kiểm tra hợp lệ.",
+          "anchor": {
+            "col": 1,
+            "colOff": 171450,
+            "row": 46,
+            "rowOff": 114300
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "Lưu ý thanh toán hàng hóa Biên mậu",
+          "anchor": {
+            "col": 62,
+            "colOff": 98657,
+            "row": 0,
+            "rowOff": 175260
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "Lưu ý thanh toán hàng hóa Trả trước",
+          "anchor": {
+            "col": 59,
+            "colOff": 96477,
+            "row": 0,
+            "rowOff": 155099
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "Lưu ý thanh toán hàng hóa Trả sau",
+          "anchor": {
+            "col": 56,
+            "colOff": 91440,
+            "row": 0,
+            "rowOff": 151449
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "PHÍ ỦY THÁC TƯ PHÁP RA NƯỚC NGOÀI",
+          "anchor": {
+            "col": 88,
+            "colOff": 410923,
+            "row": 52,
+            "rowOff": 171583
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "NGUỒN THU HỢP PHÁP TỪ SỐ DƯ TRÊN TÀI KHOẢN",
+          "anchor": {
+            "col": 88,
+            "colOff": 424529,
+            "row": 156,
+            "rowOff": 5476
+          }
+        },
+        {
+          "sheet_name": "SƠ ĐỒ",
+          "text": "Thỏa quy định",
+          "anchor": {
+            "col": 11,
+            "colOff": 540328,
+            "row": 24,
+            "rowOff": 0
+          }
+        }
+      ],
+      "smartart": [],
+      "structure": {
+        "sheet_part": "xl/worksheets/sheet1.xml",
+        "hierarchy": {}
+      }
+    }
+  ]
+}
