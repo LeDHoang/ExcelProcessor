@@ -1,0 +1,11 @@
+raganything[all]
+boto3
+python-dotenv
+chromadb
+aiofiles
+uvloop; sys_platform == 'darwin'
+
+
+
+
+

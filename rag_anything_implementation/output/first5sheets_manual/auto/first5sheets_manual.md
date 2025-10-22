@@ -1,0 +1,67 @@
+![](images/9536c0d63cd1ed4ce936699686c47ff09497630c95c604591ac23878365322c6.jpg)
+
+# Huáng dän su' dung:
+
+# 1. Di den sheet có thong tin lien ket:
+
+Nhung noi dungcolien ketdensheet chuathong tin khidu'achuotdensé hien thi bieu turong:
+
+Click chuot vao noi dung dó sé dan den sheet chu'a thong tin cän tim.
+
+![](images/1ff6fb3aaaf18782819d580fb2893781210b0b0a506c3e0bf9e84bbe56e831e4.jpg)
+
+2. Quay tro lai So do ban dau
+
+# HOME
+
+Click vao bieu turong quay ve so do ban dau.
+
+phia tren cung góc trai cac sheet chura thong tin de
+
+# 3． Zoom in / Zoom out
+
+Nguāi dung có thé zoom in (phóng to) /zoom out (thu nhó) man hinh dé thuan tién xem cac thong tin trong sheet bang cach:
+
+Cach 1:Dé chuotδ vitri cän zoom trénman hinh:
+
+-Zoom in: Giu' phim Ctrl $^ +$ Län chuot len.   
+Zoom out: Giur phim Ctrl $^ +$ Lan chuot xuong.
+
+Cach 2: Sur dung chuc näng zoom δ góc phai dudi cung man hinh
+
+![](images/63d552d67ece8010f7e444af66b1af3ffbd05d1d3659012ca124dc7493873a46.jpg)
+
+4.Truong hop click chuot vao man hinh nhieu lan lam toan man hinh trang,khong hien thi thong tin $\Rightarrow$ Nhän phim “ESC"dehien thi lai thong tin.
+
+![](images/e369869fcfe362e08dfb33bdd0e12c34c9d140e7b0bdec5e44ed7e3444e0645d.jpg)
+
+<table><tr><td rowspan=1 colspan=1>MUCLUC(theo thur tur PL1.1)</td><td rowspan=1 colspan=1>Ctr+Click(Web)hoc Click (App)vao mucdichchuyendédidénsheetnidung (có thé Ctrl+Fdé&#x27;tim kiem)</td></tr><tr><td rowspan=2 colspan=1>1.1.Hang hóa nhap khau vao VN vatam nhap tai xuat</td><td rowspan=1 colspan=1>TIEN HANG NK VAO VN</td></tr><tr><td rowspan=1 colspan=1>TAM NHAP TAI XUAT</td></tr><tr><td rowspan=1 colspan=1>1.2.Hang h6a mua ban theo hinh thufcchuyen khau</td><td rowspan=1 colspan=1>CHUYEN KHAU</td></tr><tr><td rowspan=21 colspan=1>2.1.Chuyen tien nhap khau djch vu</td><td rowspan=1 colspan=1>HOA HONG MOIGIOI</td></tr><tr><td rowspan=1 colspan=1>PHI MOI GIOI VANCHUYEN</td></tr><tr><td rowspan=1 colspan=1>CUOC PHI VAN CHUYEN HANG</td></tr><tr><td rowspan=1 colspan=1>PHI THUE NGOAILAM THU TUC XNK</td></tr><tr><td rowspan=1 colspan=1>PHI GIA CONG</td></tr><tr><td rowspan=1 colspan=1>TT HOA HONG/THU/ CHI HO CUOC PHI VAN CHUYEN</td></tr><tr><td rowspan=1 colspan=1>MUAVAN CHUYEN LINH KIEN,VAT TU,HAI DO.XANG DAU.</td></tr><tr><td rowspan=1 colspan=1>PHI DAILYLAMTHU TUC CHOTAUTAICANG NUOC NGOAI</td></tr><tr><td rowspan=1 colspan=1>TT CHO THUYEN TRUONG,THUYEN VIEN THONG QUA DAILY</td></tr><tr><td rowspan=1 colspan=1>PHI THONG TIN LIENLAC CUATAU CHO NHA CUNG CAP DICH VU</td></tr><tr><td rowspan=1 colspan=1>PHI SUA CHU&#x27;A CON TAU</td></tr><tr><td rowspan=1 colspan=1>CHI PHILIEN QUAN HOP TAC DU HQC</td></tr><tr><td rowspan=1 colspan=1>PHI/ HOA HONG DICH VU/DAILY DULICH/BAN VE MAY BAY</td></tr><tr><td rowspan=1 colspan=1>TT HQPDONGTAIBAO HIEM</td></tr><tr><td rowspan=1 colspan=1>PHI CHUYEN GIAOCONG NGHE</td></tr><tr><td rowspan=1 colspan=1>THANH TOAN TIENBAN QUYEN (SU&#x27; DUNG PHAN MEM,PHAT HANH SACH, PHAT SONG PHIM ANH,...)</td></tr><tr><td rowspan=1 colspan=1>TIENLIEN QUAN DEN KHAI THAC TRO CHOI DIENTU</td></tr><tr><td rowspan=1 colspan=1>PHI CHUYEN NHUONG BAN QUYEN SU&#x27; DUNG HINH ANH/LOGO/TRADEMARK</td></tr><tr><td rowspan=1 colspan=1>PHI NHUQNG QUYEN THUONG MAI</td></tr><tr><td rowspan=1 colspan=1>PHI MOI DOI TUYEN/DIEN VIEN/CA SI NUOC NGOAI BIEU DIEN</td></tr><tr><td rowspan=1 colspan=1>PHDICHVyKHAC(Klemtrachatluong hang/Danglahthong/GlamdnhtonthatQuangcaotren Webslte/Khac..)</td></tr><tr><td rowspan=10 colspan=1>2.2.Chuy6n tien curcph/lph/chiphfkhac</td><td rowspan=1 colspan=1>CUOC PHI GUI HANG MAUVE</td></tr><tr><td rowspan=1 colspan=1>HOA HONG MOI GIOI XUAT KHAU LAO DONG</td></tr><tr><td rowspan=1 colspan=1>PHI CAP CHUNG CHI DI BIEN CHO THUYEN VIEN</td></tr><tr><td rowspan=1 colspan=1>PHICO TAu</td></tr><tr><td rowspan=1 colspan=1>PHI QUA EO BIEN</td></tr><tr><td rowspan=1 colspan=1>CHI PHI CU NGUOI CONG TAC/HOC TAP/ KHAO SAT/THAM DU HOI THAO/CUQC HQP QUOC TE</td></tr><tr><td rowspan=1 colspan=1>TT PHI HQI VIEN CHO TO CHUC QUOC TE</td></tr><tr><td rowspan=1 colspan=1>CHI PHI THAM GIA HOICHQ/TRIEN LAM DO DV NUOC NGOAI TO CHUC</td></tr><tr><td rowspan=1 colspan=1>CHUYEN TIEN PHUC VY HOAT DQNG CUA VP DAI DIEN O NUOC NGOAI</td></tr><tr><td rowspan=1 colspan=1>PHI UY THAC TU PHAP RA NUOC NGOAI</td></tr><tr><td rowspan=4 colspan=1>3. Chuy8n tien thanh toan cac khoanlai phat/boi thudng/hoan tng lien quanXK, NK hang h6a/djch vu</td><td rowspan=1 colspan=1>LAI PHAT / LAI TRA CHAM THANH TOAN</td></tr><tr><td rowspan=1 colspan=1>BOI THU&#x27;ONG XUAT KHAU HH/DV</td></tr><tr><td rowspan=1 colspan=1>HOANTRA TIEN UNG TRUOC</td></tr><tr><td rowspan=1 colspan=1>TIEN PHAT BOC/DO HANG CHAM</td></tr><tr><td rowspan=5 colspan=1>Chuyen tien 1 chieu</td><td rowspan=1 colspan=1>CHUYEN THU NHAP VE NU&#x27;OC CHO NGUOI NUOC NGOAI LAM VIEC TAI VN</td></tr><tr><td rowspan=1 colspan=1>TAI TRQ.VIEN TRO THEO CAC CAM KET,THOA THUAN GIUA NHA NUOC, CHINH PHU, CAC CAP CHINH QUYENE</td></tr><tr><td rowspan=1 colspan=1>TAI TRQ. VIEN TRO KHAC PHUC HAU QUA THIEN TAI, DICH BENH, CHIEN TRANH.</td></tr><tr><td rowspan=1 colspan=1>TAI TRO CHO CAC CHUONG TRINH, CAC QUY,DU AN DO T6 CHUC TRONG NUOC VAVHOAC TO CHUC O NUOCI</td></tr><tr><td rowspan=1 colspan=1>NGUON THU HOP PHAP CHO NGUOI KHONG CU TRU TU SO DU TREN TAI KHOAN</td></tr><tr><td rowspan=2 colspan=1>CHUYEN TIEN LIENQUAN VAY, TRA CHO NUOC NGOAI VAYNO</td><td></td></tr><tr><td rowspan=1 colspan=1>VAY,TRA NO NUOC NGOAI</td></tr><tr><td rowspan=2 colspan=1>CHUYEN TIEN LIEN QUAN HOATDONG DAU TU</td><td rowspan=1 colspan=1>DAU TU NUOC NGOAI VAO VN</td></tr><tr><td rowspan=1 colspan=1>DAU TU RA NUOC NGOAI</td></tr></table>
+
+![](images/00e8b1943c346e2318de7435541b8080024ab9efb5cf7d5aad932feae626b64a.jpg)
+
+<table><tr><td>Mp/f s/mil ddic</td><td>8. T5dh):tisd,pg TCTt; evrhet sgie sirgrut yrhla rgsildte therhl, hel Crg leWelNars thee t. 15 ses iant iheg ph B TC2 Sax tast Bp, horteg idehyitNsudygi</td></tr><tr><td></td><td>e Cogarebi sak,dnvibt vpgierg Edic dtic kth tf: hi -rgk sgvie sf dis si s). Ifdic xi h) - nghe ngie, ga x $,qtmee oia vieNam 6. Yien yvng fi ciBs ts suts rgeli cis ctc tf this het eirg bi N. s. Ce qen dei dir sgpr giee al gae ds der irr: qv dnh lei aic dEme,b sl ±</td></tr><tr><td></td><td>sE, co quen dei den teis5 dec qutis f cia VV e f. Ch shathsi VNoieti shisknhsieudc sges; cte ruiergei, Ht eindinty Wsainni</td></tr><tr><td></td><td>ds1/,wergnogdBubaneiuicp</td></tr><tr><td></td><td></td></tr><tr><td></td><td>gis hegt fong flvk theo gay drt cle phte dtvt</td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td>Ngt lng  tIt6T6chigt en.</td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td>t#Y%.</td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td>8</td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td>chike:</td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></table>
+
+![](images/3b301ec5264e9d2c0eccdb24d2ff6c3780a62ff2512b0814da3fc1cfec0157ba.jpg)
+
+Chứng từ (\*) tại B10: Phiếu thu thập thông tin (BM-TTQT.TT.11)/Xác nhận của ĐV về việc KH đã được cấp tín dụng (mục đích bổ sung vốn lưu động/kinh doanh ngắn hạn)/Phiếu đề xuất hạn mức chuyển tiền ra nước ngoài (BM-TTQT.TT.06)/Phiếu đề xuất hạn mức chuyển tiền ra nước ngoài (Áp
+
+# từng thời k
+
+B1: Yêu cầu chuyển tiền của KH trên kênh giao dịch trực tuyến thay thế Lệnh chuyển tiền bản chính (BM_TTQT.TT.01)/LCT Moneygram (BM-TTQT.CTNNMG.01 theo QĐ 68/2019/QĐ-VBLQ và/hoặc các
+
+văn bản sửa đổi bổ sung, thay thế trong từng thời kỳ).
+
+tiền đi trên Agent Portal, xuất hóa đơn và lưu Omni (sau khi CKS kiểm tra hồ sơ phù hợp). CKSkifntainoesoCyttelytdeAaentPoaLedtameiuMGydeeiedichteT4
+
+chuyển tiền ra nước ngoài qua Mone a đổi bổ sung, thay thế trong từng thời kỳ.
+
+không phù hợp chính sách riêng của NHNNg, theo yêu cầu của người thụ hưởng…: ĐV được phân quyền/TT.NVNHGD thực hiện tại B15:
+
+Cập nhật trạng thái hồ sơ trên Chương trình QLHSTT và ĐNTT theo quy định tại Phụ lục 1.4.   
+ĐV xử lý ngoại tệ trả về (nếu có) theo Quy trình Kinh doanh tiền tệ.
+
+![](images/a6a7a87d65de0083856fa8d2c709a3a85257f024bea39e235bee713a7e8ab19a.jpg)
+
+![](images/ca5573a1a2fac63e38398a52e10b08c6f66e1a6d09af418c913d95a07f5cc499.jpg)
+
+<table><tr><td rowspan=1 colspan=1>Loai sai biet</td><td rowspan=1 colspan=1>Hinh thurc giai quyet</td></tr><tr><td rowspan=1 colspan=1> Chung tur khong the hien/thé hien sai: so/ngay Hop dong,sö/ngay Hóa don, ten/dia chi ngu&#x27;oi XK/NK, tén/dia chi ngu&#x27;oichuyen tien/nguoi thu huong trén bao có quaVietcombank/ngan hang khac,phu&#x27;ong thuc thanh toan,..ma cac sai biet nay khong lam thay döi bän chät ho so (mucdich,nói dung giao dich), nh&#x27;m län voi ho so khac va cacthong tin con lai khop dung.</td><td rowspan=3 colspan=1>Chäp nhän cän cu&#x27; giai trinh hop ly cua KH bäng vänban (hoac trén LCT/Giay d’é nghi/Giay yéu c&#x27;au/..).</td></tr><tr><td rowspan=1 colspan=1>Tri gia trén TKHQ, Chung tu bao có,... cao hon/thap honso voi Lénh chuyén tien/Hóa don/Hop dong/Thoa thuanhoan tra tiéen/... (hoac ngugc lai) do lam tron so thäp phanhoac khong qua 10o USD (hoac ngoai té khac tuongdurong).</td></tr><tr><td rowspan=1 colspan=1> TKHQ b6sung cho h so TT trä truác hang hóa thé hienngay hoan thanh kiem tra va/hoac ngay thong quan tru&#x27;ócIngay thanh toan tra tru&#x27;oc.</td></tr></table>

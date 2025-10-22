@@ -1,0 +1,75 @@
+# Environment variables
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.venv/
+.venv_pre/
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+.cursor/
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+.tmp_ocr/
+~$*
+
+# RAG Storage (exclude knowledge base files)
+rag_storage/
+**/rag_storage/
+
+# Large files
+*.xlsx
+*.pdf
+*.jpg
+*.png
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+
+# Logs
+*.log
+logs/
+
+# Cache
+.cache/
+*.cache
