@@ -1,10 +1,10 @@
 # OCR Analysis with Sub-Images
 
-**Source Image:** `sheet2.png`  
-**Processed:** 2025-10-21 17:34:36  
+**Source Image:** `Sheet2.png`  
+**Processed:** 2025-10-22 09:28:08  
 **Model:** Claude Sonnet 4.5 (Bedrock)  
 **Sub-images extracted:** 5  
-**Sub-images directory:** `sheet2_subimages/`
+**Sub-images directory:** `Sheet2_subimages/`
 
 ---
 
@@ -12,23 +12,23 @@
 
 
 
-![HOME icon with house symbol](sheet2_subimages/subimg_01_top_left.png)
+![HOME icon with small house graphic](Sheet2_subimages/subimg_01_top_left.png)
 
-*HOME icon with house symbol*
-
-
-
-## 1. Đã điền sheet có thông tin liên kết.
-
-✓ Những nơi dùng có liên kết đến sheet chưa thông tin khi chưa của chuyển sẽ hiện thị biểu tượng: 👆
-
-✓ Click chuột vào nó dùng đó sẽ dẫn đến sheet chưa thông tin cần tìm.
+*HOME icon with small house graphic*
 
 
 
-![Workflow diagram showing process steps with boxes and arrows, including sections for "Thủ tục LCT", "Tiếp nhận Hồ sơ", "Kiểm tra hồ sơ", and various decision points and actions](sheet2_subimages/subimg_02_center.png)
+## 1. Đi đến sheet có thông tin liên kết.
 
-*Workflow diagram showing process steps with boxes and arrows, including sections for "Thủ tục LCT", "Tiếp nhận Hồ sơ", "Kiểm tra hồ sơ", and various decision points and actions*
+✓ Những nội dung có liên kết đến sheet chứa thông tin khi đưa chuột đến sẽ hiển thị biểu tượng: 👆
+
+✓ Click chuột vào nội dung đó sẽ dẫn đến sheet chứa thông tin cần tìm.
+
+
+
+![Complex flowchart diagram showing navigation structure with multiple connected boxes and arrows in orange/red colors, containing Vietnamese text about navigation steps and processes](Sheet2_subimages/subimg_02_center.png)
+
+*Complex flowchart diagram showing navigation structure with multiple connected boxes and arrows in orange/red colors, containing Vietnamese text about navigation steps and processes*
 
 
 
@@ -36,19 +36,19 @@
 
 
 
-![HOME icon with house symbol repeated](sheet2_subimages/subimg_03_middle_left.png)
+![HOME icon with house graphic](Sheet2_subimages/subimg_03_middle_left.png)
 
-*HOME icon with house symbol repeated*
+*HOME icon with house graphic*
 
 
 
-✓ Click vào biểu tượng 👆 phía trên cùng góc trái các sheet chưa thông tin để quay về sơ đồ ban đầu.
+✓ Click vào biểu tượng **HOME** này phía trên cùng góc trái các sheet chứa thông tin để quay về sơ đồ ban đầu.
 
 ## 3. Zoom in / Zoom out
 
-Người dùng có thể zoom in (phóng to) / zoom out (thu nhỏ) màn hình để trụân tiện xem các thông tin trong sheet bằng cách:
+Người dùng có thể zoom in (phóng to) / zoom out (thu nhỏ) màn hình để thuận tiện xem các thông tin trong sheet bằng cách:
 
-**Cách 1:** Dễ chuột ở vị trí cần zoom trên màn hình:
+**Cách 1:** Để chuột ở vị trí cần zoom trên màn hình:
 
 - **Zoom in:** Giữ phím **Ctrl + Lăn chuột lên**.
 - **Zoom out:** Giữ phím **Ctrl + Lăn chuột xuống**.
@@ -57,22 +57,22 @@ Người dùng có thể zoom in (phóng to) / zoom out (thu nhỏ) màn hình �
 
 
 
-![Zoom control interface showing feedback option and zoom slider with + and - buttons](sheet2_subimages/subimg_04_center.png)
+![Zoom control interface showing feedback button and zoom slider with plus/minus buttons](Sheet2_subimages/subimg_04_center.png)
 
-*Zoom control interface showing feedback option and zoom slider with + and - buttons*
+*Zoom control interface showing feedback button and zoom slider with plus/minus buttons*
 
 
 
 - Zoom in: Click dấu "**+**"
 - Zoom out: Click dấu "**-**"
 
-## 4. Trường hợp click chuột vào màn hình nhiều lần làm toàn màn hình tráng, không hiện thị thông tin ⇒ Nhấn phím "ESC" để hiện thị lại thông tin.
+## 4. Trường hợp click chuột vào màn hình nhiều lần làm toán màn hình rõng, không hiển thị thông tin => Nhấn phím "ESC" để hiển thị lại thông tin.
 
 
 
-![Screenshot of Excel spreadsheet interface showing empty cells and row/column headers](sheet2_subimages/subimg_05_bottom_left.png)
+![Screenshot of Excel interface showing empty spreadsheet with toolbar and column headers](Sheet2_subimages/subimg_05_bottom_left.png)
 
-*Screenshot of Excel spreadsheet interface showing empty cells and row/column headers*
+*Screenshot of Excel interface showing empty spreadsheet with toolbar and column headers*
 
 
 
@@ -83,11 +83,11 @@ Người dùng có thể zoom in (phóng to) / zoom out (thu nhỏ) màn hình �
 
 | # | Description | Position | File |
 |---|-------------|----------|------|
-| 1 | HOME icon with house symbol | top-left | `subimg_01_top_left.png` |
-| 2 | Workflow diagram showing process steps with boxes and arrows, including sections for "Thủ tục LCT", "Tiếp nhận Hồ sơ", "Kiểm tra hồ sơ", and various decision points and actions | center | `subimg_02_center.png` |
-| 3 | HOME icon with house symbol repeated | middle-left | `subimg_03_middle_left.png` |
-| 4 | Zoom control interface showing feedback option and zoom slider with + and - buttons | center | `subimg_04_center.png` |
-| 5 | Screenshot of Excel spreadsheet interface showing empty cells and row/column headers | bottom-left | `subimg_05_bottom_left.png` |
+| 1 | HOME icon with small house graphic | top-left | `subimg_01_top_left.png` |
+| 2 | Complex flowchart diagram showing navigation structure with multiple connected boxes and arrows in orange/red colors, containing Vietnamese text about navigation steps and processes | center | `subimg_02_center.png` |
+| 3 | HOME icon with house graphic | middle-left | `subimg_03_middle_left.png` |
+| 4 | Zoom control interface showing feedback button and zoom slider with plus/minus buttons | center | `subimg_04_center.png` |
+| 5 | Screenshot of Excel interface showing empty spreadsheet with toolbar and column headers | bottom-left | `subimg_05_bottom_left.png` |
 
 
 *Generated by AWS Bedrock OCR with Sub-Image Extraction*
