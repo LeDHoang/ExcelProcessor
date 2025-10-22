@@ -1,10 +1,10 @@
 # OCR Analysis with Sub-Images
 
-**Source Image:** `Sheet2.png`  
+**Source Image:** `sheet2.png`  
 **Processed:** 2025-10-22 09:28:08  
 **Model:** Claude Sonnet 4.5 (Bedrock)  
 **Sub-images extracted:** 5  
-**Sub-images directory:** `Sheet2_subimages/`
+**Sub-images directory:** `sheet2_subimages/`
 
 ---
 
@@ -12,7 +12,7 @@
 
 
 
-![HOME icon with small house graphic](Sheet2_subimages/subimg_01_top_left.png)
+![HOME icon with small house graphic](sheet2_subimages/subimg_01_top_left.png)
 
 *HOME icon with small house graphic*
 
@@ -26,7 +26,7 @@
 
 
 
-![Complex flowchart diagram showing navigation structure with multiple connected boxes and arrows in orange/red colors, containing Vietnamese text about navigation steps and processes](Sheet2_subimages/subimg_02_center.png)
+![Complex flowchart diagram showing navigation structure with multiple connected boxes and arrows in orange/red colors, containing Vietnamese text about navigation steps and processes](sheet2_subimages/subimg_02_center.png)
 
 *Complex flowchart diagram showing navigation structure with multiple connected boxes and arrows in orange/red colors, containing Vietnamese text about navigation steps and processes*
 
@@ -36,7 +36,7 @@
 
 
 
-![HOME icon with house graphic](Sheet2_subimages/subimg_03_middle_left.png)
+![HOME icon with house graphic](sheet2_subimages/subimg_03_middle_left.png)
 
 *HOME icon with house graphic*
 
@@ -57,7 +57,7 @@ Người dùng có thể zoom in (phóng to) / zoom out (thu nhỏ) màn hình �
 
 
 
-![Zoom control interface showing feedback button and zoom slider with plus/minus buttons](Sheet2_subimages/subimg_04_center.png)
+![Zoom control interface showing feedback button and zoom slider with plus/minus buttons](sheet2_subimages/subimg_04_center.png)
 
 *Zoom control interface showing feedback button and zoom slider with plus/minus buttons*
 
@@ -70,7 +70,7 @@ Người dùng có thể zoom in (phóng to) / zoom out (thu nhỏ) màn hình �
 
 
 
-![Screenshot of Excel interface showing empty spreadsheet with toolbar and column headers](Sheet2_subimages/subimg_05_bottom_left.png)
+![Screenshot of Excel interface showing empty spreadsheet with toolbar and column headers](sheet2_subimages/subimg_05_bottom_left.png)
 
 *Screenshot of Excel interface showing empty spreadsheet with toolbar and column headers*
 
