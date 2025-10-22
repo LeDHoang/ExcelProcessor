@@ -35,7 +35,7 @@ model_id = 'global.anthropic.claude-sonnet-4-5-20250929-v1:0'
 EXTRACT_SUBIMAGES = '--extract-images' in sys.argv
 
 # Path to image you want to OCR
-image_path = 'sheet2.png'
+image_path = 'Sheet3_clean.png'
 
 # Check if image exists
 if not os.path.exists(image_path):
