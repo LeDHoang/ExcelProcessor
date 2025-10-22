@@ -1,0 +1,66 @@
+{
+  "workbook": "/Users/hoangleduc/Desktop/ExcelProcessor-1/first5sheets.xlsx",
+  "workbook_id": "sha256:549098644239c6a6c8fea651e2658541cad384d43329c61885a9a5182afbb066",
+  "created_at": 1761158569,
+  "sheets": [
+    {
+      "sheet_index": 0,
+      "sheet_name": "SƠ ĐỒ",
+      "json": "/Users/hoangleduc/Desktop/ExcelProcessor-1/preprocessed_output/sheets/S____.json",
+      "pdf": "/Users/hoangleduc/Desktop/ExcelProcessor-1/preprocessed_output/assets/pdf/S____.pdf",
+      "png": "/Users/hoangleduc/Desktop/ExcelProcessor-1/preprocessed_output/assets/png/S____.png",
+      "ocr": null,
+      "smartart_drawings": [
+        "drawing1.xml"
+      ]
+    },
+    {
+      "sheet_index": 1,
+      "sheet_name": "HD SỬ DỤNG",
+      "json": "/Users/hoangleduc/Desktop/ExcelProcessor-1/preprocessed_output/sheets/HD_S__D_NG.json",
+      "pdf": "/Users/hoangleduc/Desktop/ExcelProcessor-1/preprocessed_output/assets/pdf/HD_S__D_NG.pdf",
+      "png": "/Users/hoangleduc/Desktop/ExcelProcessor-1/preprocessed_output/assets/png/HD_S__D_NG.png",
+      "ocr": null,
+      "smartart_drawings": [
+        "drawing2.xml"
+      ]
+    },
+    {
+      "sheet_index": 2,
+      "sheet_name": "MỤC LỤC",
+      "json": "/Users/hoangleduc/Desktop/ExcelProcessor-1/preprocessed_output/sheets/M_C_L_C.json",
+      "pdf": "/Users/hoangleduc/Desktop/ExcelProcessor-1/preprocessed_output/assets/pdf/M_C_L_C.pdf",
+      "png": "/Users/hoangleduc/Desktop/ExcelProcessor-1/preprocessed_output/assets/png/M_C_L_C.png",
+      "ocr": null,
+      "smartart_drawings": [
+        "drawing3.xml"
+      ]
+    },
+    {
+      "sheet_index": 3,
+      "sheet_name": "TIẾP NHẬN",
+      "json": "/Users/hoangleduc/Desktop/ExcelProcessor-1/preprocessed_output/sheets/TI_P_NH_N.json",
+      "pdf": "/Users/hoangleduc/Desktop/ExcelProcessor-1/preprocessed_output/assets/pdf/TI_P_NH_N.pdf",
+      "png": "/Users/hoangleduc/Desktop/ExcelProcessor-1/preprocessed_output/assets/png/TI_P_NH_N.png",
+      "ocr": null,
+      "smartart_drawings": [
+        "drawing4.xml"
+      ]
+    },
+    {
+      "sheet_index": 4,
+      "sheet_name": "SAI BIỆT",
+      "json": "/Users/hoangleduc/Desktop/ExcelProcessor-1/preprocessed_output/sheets/SAI_BI_T.json",
+      "pdf": "/Users/hoangleduc/Desktop/ExcelProcessor-1/preprocessed_output/assets/pdf/SAI_BI_T.pdf",
+      "png": "/Users/hoangleduc/Desktop/ExcelProcessor-1/preprocessed_output/assets/png/SAI_BI_T.png",
+      "ocr": null,
+      "smartart_drawings": [
+        "drawing5.xml"
+      ]
+    }
+  ],
+  "extracted": {
+    "media_dir": "/Users/hoangleduc/Desktop/ExcelProcessor-1/preprocessed_output/extracted/media",
+    "drawings_dir": "/Users/hoangleduc/Desktop/ExcelProcessor-1/preprocessed_output/extracted/drawings"
+  }
+}
