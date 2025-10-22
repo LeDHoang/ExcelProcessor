@@ -1,10 +1,10 @@
 # OCR Analysis with Sub-Images
 
-**Source Image:** `Sheet3_clean.png`  
+**Source Image:** `sheet3_clean.png`  
 **Processed:** 2025-10-22 08:58:29  
 **Model:** Claude Sonnet 4.5 (Bedrock)  
 **Sub-images extracted:** 1  
-**Sub-images directory:** `Sheet3_clean_subimages/`
+**Sub-images directory:** `sheet3_clean_subimages/`
 
 ---
 
@@ -12,7 +12,7 @@
 
 
 
-![Home icon/button](Sheet3_clean_subimages/subimg_01_top_left.png)
+![Home icon/button](sheet3_clean_subimages/subimg_01_top_left.png)
 
 *Home icon/button*
 
