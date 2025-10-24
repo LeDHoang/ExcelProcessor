@@ -122,7 +122,7 @@ async def main():
 
     # Process a document
     await rag.process_document_complete(
-        file_path="input/first5sheets_manual.pdf",
+        file_path=os.getenv("RAG_INPUT_PDF", "input/fullsheets-vba_optimized.pdf"),
         output_dir="output",
         parse_method="auto"
     )
@@ -130,21 +130,21 @@ async def main():
     # Query the processed content
     # Pure text query - for basic knowledge base search
     text_result = await rag.aquery(
-        "Loai Sai Biet va Cach giai quyet",
+        "Tell me the list of countries inside the sanctioned country list in the document",
         mode="hybrid"
     )
     print("Text query result:", text_result)
 
     # Multimodal query with specific multimodal content
     multimodal_result = await rag.aquery_with_multimodal(
-    "Loai Sai Biet va Cach giai quyet",
-    multimodal_content=[{
-        "type": "equation",
-        "latex": "P(d|q) = \\frac{P(q|d) \\cdot P(d)}{P(q)}",
-        "equation_caption": "Document relevance probability"
-    }],
-    mode="hybrid"
-)
+        "Tell me the list of countries inside the sanctioned country list in the document",
+        multimodal_content=[{
+            "type": "equation",
+            "latex": "P(d|q) = \\frac{P(q|d) \\cdot P(d)}{P(q)}",
+            "equation_caption": "Document relevance probability"
+        }],
+        mode="hybrid"
+    )
     print("Multimodal query result:", multimodal_result)
 
 if __name__ == "__main__":
